@@ -1,5 +1,4 @@
 import axios from 'axios'
-import { setLocalForage } from '@/utils/localForage'
 import { getCategoryName } from '@/utils/book'
 
 export function home2() {
